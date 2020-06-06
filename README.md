@@ -21,7 +21,12 @@
   * contactenos [link-ejemplo-guía](https://colorlib.com/wp/bootstrap-contact-form/) ✔️
 
 ### Formulario de Contacto 
+Vista Web
+<p> <img src= "https://raw.githubusercontent.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado/master/src/images/viewWeb.png"> </p>
+Versión mobile
+<p align="center"><img src="https://raw.githubusercontent.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado/master/src/images/viewMobile.png"></p>
+Version mobile 2
+<p align="center"><img src="https://raw.githubusercontent.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado/master/src/images/viewMobile2.png"></p>
 
 
-
-
+✨✨✨✨✨✨✨✨✨✨✨✨
