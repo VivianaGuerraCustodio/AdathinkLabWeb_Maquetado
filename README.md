@@ -28,5 +28,5 @@ Versión mobile
 Version mobile 2
 <p align="center"><img src="https://raw.githubusercontent.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado/master/src/images/viewMobile2.png"></p>
 
-
-✨✨✨✨✨✨✨✨✨✨✨✨
+<p align="center"> <a href="https://forms.gle/Y8fZVKzJMrktxpRP9">Deja tu feedback por aquí  </a> </p>
+<p align="center"> ✨✨✨✨✨✨✨✨✨✨✨✨ </p>
