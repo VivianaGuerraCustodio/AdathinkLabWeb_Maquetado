@@ -1,0 +1,25 @@
+{
+  "name": "AdathinkLabWeb_Maquetado",
+  "version": "1.0.0",
+  "description": "<img src=\"https://www.syloper.com/wp-content/uploads/git_destacada-1024x426.png\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado/issues"
+  },
+  "homepage": "https://github.com/VivianaGuerraCustodio/AdathinkLabWeb_Maquetado#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
