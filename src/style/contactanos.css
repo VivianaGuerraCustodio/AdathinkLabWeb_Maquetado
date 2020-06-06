@@ -3,7 +3,7 @@
     outline:none;
 }
 body{
-    background-image: url('/src/images/map.jpg');
+    background-image: url('/images/map.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
